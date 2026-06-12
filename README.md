@@ -16,7 +16,7 @@ Bienvenue dans le projet **Scraper de prix e-commerce** ! Ce projet a pour but d
 2. Lancez le programme interactif dans votre terminal avec la commande suivante :
 
 ```bash
-python teste.py
+python main.py
 ```
 
 3. Un menu s'affichera, vous n'avez plus qu'à choisir une option en entrant le numéro correspondant !
